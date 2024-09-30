@@ -1,1 +1,1 @@
-# LM_PruebaTecnica_Angualr
+# LM_PruebaTecnica_Angular
